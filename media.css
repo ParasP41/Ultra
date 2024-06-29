@@ -1,0 +1,66 @@
+@media screen and (max-width:1024px)
+ {
+    html
+    {
+        font-size:70%
+    }
+    .span1
+    {
+        display: none;
+    }
+    .im1
+    {
+        height: 56px;
+        width: 175px;
+    }
+    .none
+    {
+        display: block;
+        margin-right: 20px;
+    }
+}
+@media screen and (max-width:730px)
+{
+   .m3
+   {
+    display:flex;
+    flex-direction: column;
+   }
+}
+
+@media screen and (max-width:580px)
+{
+    .s1
+    {
+        text-align: center;
+    }
+}
+@media screen and (max-width:451px)
+ {
+    .m3 span button
+    {
+        font-size: 4px;
+    }
+}
+@media screen and (max-width:430px)
+{
+    html
+    {
+        font-size: 40%;
+    }
+    .s1
+    {
+        text-align: center;
+    }
+    .im1
+    {
+        height: 46px;
+        width: 145px;
+    }
+    .im2
+    {
+        height: 30px;
+        width: 100px;   
+    }
+    
+}
